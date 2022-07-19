@@ -33,20 +33,30 @@
     <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
     <a href="#"><img width="10%" height="50" src= "https://user-images.githubusercontent.com/83856879/147408567-2cd0ccb3-d3ee-443f-980b-40483c8aefa9.jpg" height="175px"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-
-  </br>
-    <a href="https://github.com/IndudiniThennakoon/github-readme-stats"><img alt="Indudini Thennakoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IndudiniThennakoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-
-## ✍🏽  Commitment on Github
-
-<br/>
-
-<p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com?user=IndudiniThennakoon&theme=algolia)](https://git.io/streak-stats)">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Induini Thennakoon's streak" src="https://github-readme-streak-stats.herokuapp.com?user=IndudiniThennakoon&theme=algolia)](https://git.io/streak-stats)"/>
-    </a>
 </p>
+
+  </br></br>
+<p align="center">
+  <p align="center">
+    <a href="https://github.com/IndudiniThennakoon/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Indudini Thennakoon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IndudiniThennakoon&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    </a>
+  </p>
+</p>
+
+
+<br/>
+
+
+## 📊 My Github Status
+
+  <br/>
+    <a href="https://github.com/IndudiniThennakoon/github-readme-stats"><img alt="Indudini Thennakoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IndudiniThennakoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/IndudiniThennakoon/github-readme-stats"><img alt="Indudini Thennakoon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndudiniThennakoon&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+
+  <br/>
+  <br/>
+
 
 
 ## 😀 Views and Followers
@@ -68,4 +78,4 @@
 
 </p>
 
-last update 12/07/2022
+last update 19/07/2022
