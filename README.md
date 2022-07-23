@@ -17,22 +17,29 @@
   
 
 ## 🚀 Languages and Tools
-👾 **Programming Languages**
+
 <p align="left"> 
     <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>    
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>  
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
+    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/30/000000/php-logo.png"/>
+    <a href="https://https://www.mysql.com//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>
 
-👾 **Tools**
+
 <p align="left">
     <a href="#"><img width="5%" height="50" src= "https://user-images.githubusercontent.com/83856879/147408504-caadbb41-2053-44ed-aea3-885aed359c1e.png" height="175px"/></a>
     <a href= "https://code.visualstudio.com"target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
     <a href="https://www.jetbrains.com/pycharm" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
     <a href="#"><img width="10%" height="50" src= "https://user-images.githubusercontent.com/83856879/147408567-2cd0ccb3-d3ee-443f-980b-40483c8aefa9.jpg" height="175px"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jetbrains.png"/></a>
+    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 </p>
 
   </br></br>
