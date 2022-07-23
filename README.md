@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="500" height="500" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
+<img align="center" width="500" height="500" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif"/>
 </p>
 
 
@@ -26,7 +26,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>  
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/offices/30/000000/php-logo.png"/>
+    <a href="https://www.php.net/" target="_blank"> <img width="5%" height="50" src="https://img.icons8.com/offices/30/000000/php-logo.png"/>
     <a href="https://https://www.mysql.com//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>
 
@@ -39,6 +39,7 @@
     <a href="#"><img width="10%" height="50" src= "https://user-images.githubusercontent.com/83856879/147408567-2cd0ccb3-d3ee-443f-980b-40483c8aefa9.jpg" height="175px"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jetbrains.png"/></a>
+    <a href="https://www.eclipse.org/" target="_blank"> <img width="4%" height="40" src="https://img.icons8.com/officexs/16/000000/java-eclipse.png"/></a>
     <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 </p>
 
@@ -85,4 +86,4 @@
 
 </p>
 
-last update 19/07/2022
+last update 22/07/2022
