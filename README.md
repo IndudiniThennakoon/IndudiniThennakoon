@@ -81,10 +81,11 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/indudini-thennakoon/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "thennakoonindudini@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
 <a href = "https://www.instagram.com/i_ndu_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/IndudiniThennakoon/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://www.hackerrank.com/thennakoonindud1"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png"/></a>
 
 </p>
 
-last update 27/07/2022
+last update 28/07/2022
