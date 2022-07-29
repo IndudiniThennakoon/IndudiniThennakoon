@@ -11,7 +11,7 @@
 
 - ⚡ A highly motivated, hardworking good personality with communication and leadership skills undergraduate currently studies at 1st year at **Sri Lanka Institute of Information Technology Guarantee Ltd (SLIIT)**
 
-- 👨‍💻 Currently learning **Java & React**
+- 👨‍💻 Currently learning **Java**
 - 📫 Pursuing a Bachelor's degree in Information Technology (special) 
 - 👯 Like to use my education knowledge and multifaceted skills to work successfully and collaboratively with others
   
@@ -88,4 +88,4 @@
 
 </p>
 
-last update 28/07/2022
+last update 29/07/2022
