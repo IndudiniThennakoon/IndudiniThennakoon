@@ -11,7 +11,7 @@
 
 - ⚡ A highly motivated, hardworking good personality with communication and leadership skills undergraduate currently studies at 1st year at **Sri Lanka Institute of Information Technology Guarantee Ltd (SLIIT)**
 
-- 👨‍💻 Currently learning **Java**
+- 👨‍💻 Currently learning **Java and TypeScript**
 - 📫 Pursuing a Bachelor's degree in Information Technology (special) 
 - 👯 Like to use my education knowledge and multifaceted skills to work successfully and collaboratively with others
   
@@ -28,6 +28,7 @@
     <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img width="5%" height="50" src="https://img.icons8.com/offices/30/000000/php-logo.png"/>
     <a href="https://https://www.mysql.com//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/typescript.png"/>
 </p>
 
 
@@ -88,4 +89,4 @@
 
 </p>
 
-last update 29/07/2022
+last update 30/07/2022
