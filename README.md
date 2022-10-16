@@ -9,7 +9,7 @@
 
 ##  🙋‍♀️About Me
 
-- ⚡ A highly motivated, hardworking good personality with communication and leadership skills undergraduate currently studies at 1st year at **Sri Lanka Institute of Information Technology Guarantee Ltd (SLIIT)**
+- ⚡ A highly motivated, hardworking good personality with communication and leadership skills undergraduate currently studies at 2nd year at **Sri Lanka Institute of Information Technology Guarantee Ltd (SLIIT)**
 
 - 👨‍💻 Currently learning **Java**
 - 📫 Pursuing a Bachelor's degree in Information Technology (special) 
