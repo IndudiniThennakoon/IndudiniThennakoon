@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Indu</h1>
-<h3 align="center">I am a 21-year-old BSc undergraduate in Information Technology (Special),from Sri Lanka.</h3>
+<h3 align="center">I am a 22nd-year-old BSc undergraduate in Information Technology (Special),from Sri Lanka.</h3>
 
 
 ##  🙋‍♀️About Me
