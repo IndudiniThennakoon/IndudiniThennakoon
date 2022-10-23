@@ -9,6 +9,10 @@
 
 
 ##  🙋‍♀️About Me
+<p align="left"> 
+  <p align="right">
+  <img align="right" width="" height="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/>
+  </p>
 
 - ⚡ A highly motivated, hardworking good personality with communication and leadership skills undergraduate currently studies at 2nd year at **Sri Lanka Institute of Information Technology Guarantee Ltd (SLIIT)**
 
@@ -20,11 +24,8 @@
 
 
 ## 🚀 Languages and Tools
-
-<p align="left"> 
-  <p align="right">
-  <img align="right" width="" height="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/>
-  </p>
+<p align="right">
+  <a align = "right" href="https://github.com/IndudiniThennakoon/github-readme-stats"><img alt="Indudini Thennakoon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndudiniThennakoon&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
   <p align="left"> 
       <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
@@ -49,13 +50,9 @@
   </p>
 </p>
 
-<p align="left">
-  <p align="left">
-    <a href="https://github.com/IndudiniThennakoon/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Indudini Thennakoon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IndudiniThennakoon&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
-    </a>
-  </p>
-</p>
+
+
+
 
 
 <br/>
@@ -63,8 +60,9 @@
 
 ## 📊 My Github Status
   <br/>
-   <a aling =left href="https://github.com/IndudiniThennakoon/github-readme-stats"><img alt="Indudini Thennakoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IndudiniThennakoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a> 
-  <a align = right href="https://github.com/IndudiniThennakoon/github-readme-stats"><img alt="Indudini Thennakoon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndudiniThennakoon&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+  <img align="right" width="400" style="margin-top: 300px" src="https://github-readme-streak-stats.herokuapp.com/?user=IndudiniThennakoon&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+   <a aling ="left" href="https://github.com/IndudiniThennakoon/github-readme-stats"><img alt="Indudini Thennakoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IndudiniThennakoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a> 
+  
 
 
   <br/>
