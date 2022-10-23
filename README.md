@@ -23,7 +23,7 @@
 
 <p align="left"> 
   <p align="right">
-  <img align="right" width="" height="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/>
+  <img align="right" width="" height="300" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966"/>
   </p>
 
   <p align="left"> 
