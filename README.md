@@ -15,7 +15,11 @@
 - 📫 Pursuing a Bachelor's degree in Information Technology (special) 
 - 👯 Like to use my education knowledge and multifaceted skills to work successfully and collaboratively with others
   
-
+## Awards
+<a href="https://holopin.io/@indudinithennakoon">
+  <img src="https://holopin.me/indudinithennakoon" alt="@indudinithennakoon's Holopin board" />
+</a>
+</br>
 ## 🚀 Languages and Tools
 
 <p align="left"> 
