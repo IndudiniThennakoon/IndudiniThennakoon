@@ -49,8 +49,6 @@
   </p>
 </p>
 
-
-  </br></br>
 <p align="left">
   <p align="left">
     <a href="https://github.com/IndudiniThennakoon/github-readme-streak-stats">
