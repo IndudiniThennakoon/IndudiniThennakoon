@@ -62,8 +62,7 @@
 ## 📊 My Github Status
   <br/>
     <a href="https://github.com/IndudiniThennakoon/github-readme-stats"><img alt="Indudini Thennakoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IndudiniThennakoon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/IndudiniThennakoon/github-readme-stats"><img alt="Indudini Thennakoon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndudiniThennakoon&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-  <p>
+     <p>
   <div align="center">
 <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
   </div>
@@ -71,6 +70,8 @@
 <div>
   <br>
 </p>
+  <a href="https://github.com/IndudiniThennakoon/github-readme-stats"><img alt="Indudini Thennakoon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndudiniThennakoon&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+ 
   <br/>
   <br/>
 
