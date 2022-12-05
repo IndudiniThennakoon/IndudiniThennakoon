@@ -37,6 +37,14 @@
     <a href="https://https://www.mysql.com//" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/typescript.png"/>
 </p>
+<p>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+  </div>
+</div>
+<div>
+  <br>
+</p>
 <p align="left">
     <a href="#"><img width="5%" height="50" src= "https://user-images.githubusercontent.com/83856879/147408504-caadbb41-2053-44ed-aea3-885aed359c1e.png" height="175px"/></a>
     <a href= "https://code.visualstudio.com"target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
@@ -72,6 +80,9 @@
 <a href="https://github.com/IndudiniThennakoon?tab=followers"><img src="https://img.shields.io/github/followers/IndudiniThennakoon?label=Followers&style=social" alt="GitHub Badge"></a>
 </br>
 </br>
+  
+ 
+
 
 ## Connect with me:
 <p align="left">
